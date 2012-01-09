@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TableRow
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/tlView"
+            android:text="TL"
+            style="@style/cell_view" />
+
+        <TextView
+            android:id="@+id/tcView"
+            android:text="TC" 
+            style="@style/cell_view"/>
+
+        <TextView
+            android:id="@+id/trView"
+            android:text="TR"
+            style="@style/cell_view" />
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/clView"
+            android:text="CL"
+            style="@style/cell_view" />
+
+        <TextView
+            android:id="@+id/ccView"
+            android:text="CC" 
+            style="@style/cell_view"/>
+
+        <TextView
+            android:id="@+id/crView"
+            android:text="CR"
+            style="@style/cell_view" />
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/blView"
+            android:text="BL"
+            style="@style/cell_view" />
+
+        <TextView
+            android:id="@+id/bcView"
+            android:text="BC" 
+            style="@style/cell_view"/>
+
+        <TextView
+            android:id="@+id/brView"
+            android:text="BR"
+            style="@style/cell_view" />
+
+    </TableRow>
+
+</TableLayout>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">CustomViewFromXML</string>
+    <string name="TR">Top Right</string>
+    <string name="TL">Top Left</string>
+    <string name="TC">Top Center</string>
+    <string name="CL">Center Left</string>
+    <string name="CC">Center Center</string>
+    <string name="CR">Center Right</string>
+    <string name="BL">Bottom Left</string>
+    <string name="BC">Bottom Center</string>
+    <string name="BR">Bottom Right</string>
+    <string name="you_clicked">You have clicked %1$s</string>
+
+</resources>
